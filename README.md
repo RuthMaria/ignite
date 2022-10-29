@@ -41,7 +41,7 @@ Ignite is an online, practical and intensive training. In Ignite the student goe
 
 ### :small_orange_diamond: Fundamentals
 
-- [TimeLine](https://github.com/RuthMaria/ignite-react-fundamentals)
+- [TimeLine](https://github.com/RuthMaria/ignite-timeline)
 
 <br>
 

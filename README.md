@@ -33,7 +33,14 @@ Ignite is an online, practical and intensive training. In Ignite the student goe
  * Typescript
  * HTML5
  * CSS3
- 
+ * CSS modules
+ * Styled components
+ * React hook form
+ * Zod
+ * Date-fns
+ * Context API
+ * Immer
+ * LocalStorage 
 
 <a id="challenges"></a><br>
 
@@ -42,6 +49,7 @@ Ignite is an online, practical and intensive training. In Ignite the student goe
 ### :small_orange_diamond: Fundamentals
 
 - [TimeLine](https://github.com/RuthMaria/ignite-timeline)
+- [Timer](https://github.com/RuthMaria/ignite-timer)
 
 <br>
 
@@ -51,14 +59,7 @@ Ignite is an online, practical and intensive training. In Ignite the student goe
 ### :small_orange_diamond: Fundamentals
 
 - [Todo List](https://github.com/RuthMaria/ignite-todoList)
-
-
-<br>
-
-### :small_orange_diamond: Conceptos
-
-- [React.js](https://github.com/RuthMaria/gostack-reactJs-concepts) 
-
+- [Coffee Delivery](https://github.com/RuthMaria/ignite-coffeeDelivery)
 
 <br>
 

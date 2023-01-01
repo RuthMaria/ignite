@@ -29,34 +29,37 @@ Ignite is an online, practical and intensive training. In Ignite the student goe
 
 ## ⚒️ Technologies Used
 
- * ReactJS
- * Typescript
- * HTML5
- * CSS3
- * CSS modules
- * Styled components
- * React hook form
+ * env
  * Zod
- * Date-fns
- * Context API
+ * Intl
+ * CSS3
+ * UUID
+ * HTML5
  * Immer
+ * ReactJS
+ * Radix-ui
+ * Date-fns
+ * Typescript
+ * API viacep
+ * JSON-server
+ * CSS modules
+ * Context API
  * LocalStorage 
+ * Phosphor Icons
+ * React hook form
+ * Styled components
 
 <a id="challenges"></a><br>
 
-## :abacus: Classes
-
-### :small_orange_diamond: Fundamentals
+## :abacus: Classes projects
 
 - [TimeLine](https://github.com/RuthMaria/ignite-timeline)
 - [Timer](https://github.com/RuthMaria/ignite-timer)
+- [DT Money](https://github.com/RuthMaria/ignite-DTMoney)
 
 <br>
 
-## 🎯 Challenges
-
-
-### :small_orange_diamond: Fundamentals
+## 🎯 Challenges projects
 
 - [Todo List](https://github.com/RuthMaria/ignite-todoList)
 - [Coffee Delivery](https://github.com/RuthMaria/ignite-coffeeDelivery)

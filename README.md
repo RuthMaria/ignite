@@ -44,7 +44,9 @@ Ignite is an online, practical and intensive training. In Ignite the student goe
  * JSON-server
  * CSS modules
  * Context API
- * LocalStorage 
+ * LocalStorage
+ * API do GitHub
+ * React markdown 
  * Phosphor Icons
  * React hook form
  * Styled components
@@ -63,6 +65,7 @@ Ignite is an online, practical and intensive training. In Ignite the student goe
 
 - [Todo List](https://github.com/RuthMaria/ignite-todoList)
 - [Coffee Delivery](https://github.com/RuthMaria/ignite-coffeeDelivery)
+- [GitHub Blog](https://github.com/RuthMaria/ignite-githubBlog)
 
 <br>
 
